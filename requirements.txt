@@ -9,3 +9,4 @@ faiss-cpu
 requests
 beautifulsoup4
 uvicorn
+fastapi
